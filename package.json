@@ -86,7 +86,7 @@
   "devDependencies": {
     "@commitlint/cli": "^12.1.1",
     "@commitlint/config-conventional": "^12.0.1",
-    "@commitlint/prompt-cli": "^12.0.1",
+    "@commitlint/prompt-cli": "^12.1.4",
     "@types/command-exists": "^1.2.0",
     "@types/node": "^15.6.1",
     "@types/vscode": "*",
